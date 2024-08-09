@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+</head>
+<body>
+    <h1>Minha Primeira Página HTML.</h1>
+    
+    <h2>Bem-Vindo a minha página!</h2>
+    <br>
+    <un class="sulli"> Aqui aprenderá sobre:</un>
+    <br>
+    <li id="ads">1. O mais básico sobre programas.</li>
+    <li id="ads">2. A diferença entre linguagens de programação.</li>
+    <li id="ads">3. Como criar sites e personalizar-los.</li>
+    <br>
+    <p>------------------------x----------------------x---------------------x---------------------------------x</p>
+    <img src="/img/download.webp" height="350px">
+    <br>
+    <p>------------------------x----------------------x---------------------x---------------------------------x</p>
+    <a href="https://ebaconline.com.br/blog/como-aprender-o-basico-de-programacao">Link para Matéria Completa -></a>
+</html>
+body {
+    color: bisque;
+
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+color: black;
+font-size: 45px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sulli {
+    color: black;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ads {
+    color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
